@@ -1,2 +1,5 @@
 # Arrays-String-Problem-Problems-Practice
-some string and arrays question that i have practicing on daily basis
+Some string and arrays question that i have practicing on daily basis
+<br>
+String and Arrays
+<h1>Deepak Mallik</h1>
